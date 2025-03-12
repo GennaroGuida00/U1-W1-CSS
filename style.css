@@ -1,0 +1,55 @@
+header {
+  width: 300px;
+  margin-left: 30%;
+}
+#div1 {
+  border-top: solid;
+  border-color: #f7ebcb;
+  height: 80px;
+  background-color: #fdfbf1;
+}
+#div2 {
+  margin-top: 5%;
+  margin: auto;
+  margin-bottom: 0%;
+}
+#div3 {
+  margin-top: 5%;
+  margin: auto;
+  margin-bottom: 0%;
+}
+#div4 {
+}
+
+#txt5 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #107777;
+}
+#txt1 {
+  margin-left: 0%;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#txt2 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#txt3 {
+  margin: auto;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#txt4 {
+  margin-left: 0%;
+}
+img {
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 28%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0; /* Lo posiziona in basso */
+  left: 0; /* Lo allinea a sinistra */
+}
